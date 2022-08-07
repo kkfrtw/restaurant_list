@@ -17,7 +17,7 @@ This is my first project using node.js, express and handlebars.
 
 3. 開啟程式
 `npm run dev  //執行程式`
-終端顯示 `[nodemon] starting `node app.js`` 即啟動完成，請至 http://localhost:3000 開始使用程式
+終端顯示 [nodemon] starting `node app.js` 即啟動完成，請至 http://localhost:3000 開始使用程式
 
 
 # 畫面截圖 Screeshots
