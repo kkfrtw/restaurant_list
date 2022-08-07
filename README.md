@@ -8,16 +8,16 @@ This is my first project using node.js, express and handlebars.
 3. 使用者可以瀏覽一家餐廳的詳細資訊
 
 # 安裝 Install
-1. 開啟終端機(Terminal)cd 到存放專案本機位置並執行:
-git clone https://github.com/kkfrtw/restaurant_list.git
+1. 開啟 終端機(Terminal) cd 到存放專案本機位置並執行:
+`git clone https://github.com/kkfrtw/restaurant_list.git`
 
 2. 初始
-cd restaurant_list  //切至專案資料夾
-npm install  //安裝套件
+`cd restaurant_list  //切至專案資料夾`
+`npm install  //安裝套件`
 
 3. 開啟程式
-npm run dev  //執行程式
-終端顯示 [nodemon] starting `node app.js` 即啟動完成，請至 http://localhost:3000 開始使用程式
+`npm run dev  //執行程式`
+終端顯示 `[nodemon] starting `node app.js`` 即啟動完成，請至 http://localhost:3000 開始使用程式
 
 
 # 畫面截圖 Screeshots
